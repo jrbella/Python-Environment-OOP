@@ -34,6 +34,12 @@ url : https://www.sphinx-doc.org/en/master/
 
 install command : pip install -U Sphinx
 
+#### Ipython : working python terminal
+
+url : https://ipython.org/install.html
+
+install : command pip install ipython
+
 
 ### Installation guide
 
