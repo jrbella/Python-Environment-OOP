@@ -41,6 +41,6 @@ use the install_setup file to run all of the pip commands.  You must have python
 
 https://pip.pypa.io/en/stable/installation/
 
-Windows : C:> py -m ensurepip --upgrade
-MacOS : $ python -m ensurepip --upgrade
-Linux : $ python -m ensurepip --upgrade
+-- Windows : C:> py -m ensurepip --upgrade
+-- MacOS : $ python -m ensurepip --upgrade
+-- Linux : $ python -m ensurepip --upgrade
